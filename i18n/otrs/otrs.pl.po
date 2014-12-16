@@ -5807,7 +5807,7 @@ msgstr "Folder IMAP"
 msgid ""
 "Only modify this if you need to fetch mail from a different folder than "
 "INBOX."
-msgstr "Zmień to jeśli potrzebujesz pobirać pocztę z innego foldera niż INBOX."
+msgstr "Zmień to jeśli potrzebujesz pobierać pocztę z innego foldera niż INBOX."
 
 #. Template: AdminMailAccount
 msgid "Trusted"
