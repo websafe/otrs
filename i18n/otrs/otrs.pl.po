@@ -5712,7 +5712,7 @@ msgid ""
 "appropriate changes in the SysConfig, you will be locked out of the "
 "administrations panel! If this happens, please rename the group back to "
 "admin per SQL statement."
-msgstr "Uwaga: Jezeli zmienisz nazwę grupy 'admin', przed wykonaniem właściwych zmian w SysConfig, zablokujesz panel administratorów! Jeżeli to nastąpi, przywróć nazwę grupy admin z użyciem SQL."
+msgstr "Uwaga: Jeżeli zmienisz nazwę grupy 'admin', przed wykonaniem właściwych zmian w SysConfig, zablokujesz panel administratorów! Jeżeli to nastąpi, przywróć nazwę grupy admin z użyciem SQL."
 
 #. Template: AdminGroup
 msgid "Group Management"
@@ -5781,7 +5781,7 @@ msgid ""
 "If your account is trusted, the already existing X-OTRS header at arrival "
 "time (for priority, ...) will be used! PostMaster filter will be used "
 "anyway."
-msgstr "Jezeli konto jest zaufane, istniejące w chwili przybycia nagłówki X-OTRS (priorytet, ...) zostaną użyte! Filtr PostMaster zostanie wykonany."
+msgstr "Jeżeli konto jest zaufane, istniejące w chwili przybycia nagłówki X-OTRS (priorytet, ...) zostaną użyte! Filtr PostMaster zostanie wykonany."
 
 #. Template: AdminMailAccount
 msgid "Delete account"
@@ -6341,7 +6341,7 @@ msgstr "Ta funkcja jest włączona!"
 
 #. Template: AdminPerformanceLog
 msgid "Just use this feature if you want to log each request."
-msgstr "Wybierz tą opcję jezeli chcesz logować każde żądanie."
+msgstr "Wybierz tą opcję jeżeli chcesz logować każde żądanie."
 
 #. Template: AdminPerformanceLog
 msgid "Activating this feature might affect your system performance!"
