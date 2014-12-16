@@ -11004,7 +11004,7 @@ msgstr "Pozwala klientom na ustawienie typu zgłoszenia w interfejsie klienta. T
 #. SysConfig
 msgid ""
 "Allows default services to be selected also for non existing customers."
-msgstr "Pozwala na wybranie domyślnych seriwsów dla nieistniejącyh klientów."
+msgstr "Pozwala na wybranie domyślnych serwisów dla nieistniejącyh klientów."
 
 #. SysConfig
 msgid ""
